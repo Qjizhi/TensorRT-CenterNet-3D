@@ -12,6 +12,8 @@ cuda 10.1
 
 ### 2. Performance
 ![image](img/centerddd.png)
+![](img/cyclist_centernet_3d_m.png)  
+![](img/pedestrian_centernet_3d_m.png)
 
 
 ### 3. How to use
